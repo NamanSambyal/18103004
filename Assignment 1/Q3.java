@@ -1,4 +1,4 @@
-//4. To find the shortest path beetween 2 nodes and check if a negative cycle exists.
+//4. To find the shortest path between 2 nodes and check if a negative cycle exists.
 
 import java.util.*;
 
