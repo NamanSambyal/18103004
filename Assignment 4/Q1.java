@@ -108,9 +108,9 @@ public class Q1
 /*
 
 Input:  4
-	    acaa
+	acaa
         dddd
-	    bbbb
+	bbbb
         ccce
 Output: 6
 
